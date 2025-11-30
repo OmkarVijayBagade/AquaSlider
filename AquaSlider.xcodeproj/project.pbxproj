@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		51683AA52ECF868700808821 /* AquaGuage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AquaGuage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		51683AA52ECF868700808821 /* AquaSlider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AquaSlider.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		51683AA72ECF868700808821 /* AquaGuage */ = {
+		51683AA72ECF868700808821 /* AquaSlider */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = AquaGuage;
+			path = AquaSlider;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		51683A9C2ECF868700808821 = {
 			isa = PBXGroup;
 			children = (
-				51683AA72ECF868700808821 /* AquaGuage */,
+				51683AA72ECF868700808821 /* AquaSlider */,
 				51683AA62ECF868700808821 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		51683AA62ECF868700808821 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				51683AA52ECF868700808821 /* AquaGuage.app */,
+				51683AA52ECF868700808821 /* AquaSlider.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		51683AA42ECF868700808821 /* AquaGuage */ = {
+		51683AA42ECF868700808821 /* AquaSlider */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 51683AB02ECF868700808821 /* Build configuration list for PBXNativeTarget "AquaGuage" */;
+			buildConfigurationList = 51683AB02ECF868700808821 /* Build configuration list for PBXNativeTarget "AquaSlider" */;
 			buildPhases = (
 				51683AA12ECF868700808821 /* Sources */,
 				51683AA22ECF868700808821 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				51683AA72ECF868700808821 /* AquaGuage */,
+				51683AA72ECF868700808821 /* AquaSlider */,
 			);
-			name = AquaGuage;
+			name = AquaSlider;
 			packageProductDependencies = (
 			);
 			productName = AquaGuage;
-			productReference = 51683AA52ECF868700808821 /* AquaGuage.app */;
+			productReference = 51683AA52ECF868700808821 /* AquaSlider.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 51683AA02ECF868700808821 /* Build configuration list for PBXProject "AquaGuage" */;
+			buildConfigurationList = 51683AA02ECF868700808821 /* Build configuration list for PBXProject "AquaSlider" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				51683AA42ECF868700808821 /* AquaGuage */,
+				51683AA42ECF868700808821 /* AquaSlider */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		51683AA02ECF868700808821 /* Build configuration list for PBXProject "AquaGuage" */ = {
+		51683AA02ECF868700808821 /* Build configuration list for PBXProject "AquaSlider" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				51683AAE2ECF868700808821 /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		51683AB02ECF868700808821 /* Build configuration list for PBXNativeTarget "AquaGuage" */ = {
+		51683AB02ECF868700808821 /* Build configuration list for PBXNativeTarget "AquaSlider" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				51683AB12ECF868700808821 /* Debug */,

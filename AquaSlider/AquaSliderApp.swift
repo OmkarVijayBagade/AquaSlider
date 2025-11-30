@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct AquaGuageApp: App {
+struct AquaSliderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
